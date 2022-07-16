@@ -39,17 +39,17 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika']
+global.owner = ['Yeshan basnyake']
 
-global.premium = ['💗Queen Ashiya🧚']
+global.premium = ['💗Nelushaـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬✾Bot➣♥️🧚']
 
-global.ownernomer = '94741671668'
+global.ownernomer = '94701363708'
 
-global.ownername = 'Didula Rashmika'
+global.ownername = 'Yeshan basnayake'
 
-global.botname = '💗Queen Ashiya🧚'
+global.botname = '💗ʀͥᴇᷧᴀʟⷨ٭͢★❮᭄  ᷜʏͥᴇᷠʜᷚᴀɴ⇅࿐🧚'
 
-global.footer = '©💗Queen Ashiya🧚.'
+global.footer = '©💗ʀͥᴇᷧᴀʟⷨ٭͢★❮᭄  ᷜʏͥᴇᷠʜᷚᴀɴ⇅࿐🧚.'
 
 global.ig = 'https://github.com/BlackPant'
 
@@ -59,9 +59,9 @@ global.sc = 'https://github.com/BlackPanther-svg/Queen-Ashiya'
 
 global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
 
-global.packname = '💗Queen Ashiya🧚'
+global.packname = '💗Yeshan🧚'
 
-global.author = '💗Queen Ashiya🧚'
+global.author = '💗Nelusha🧚'
 
 global.sessionName = 'session'
 
